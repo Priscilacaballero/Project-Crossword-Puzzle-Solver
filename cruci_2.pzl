@@ -1,0 +1,21 @@
+x|y|direction|number|word|clue
+1|2|horiz|1|AIRBNB|Comenzó ante la problemática de no poder pagar alquiler de sus fundadores Brian y Joe.
+19|3|vert|2|ALTERNATIVAS|A partir de analizar esto se extraen las acciones a llevar a cabo para solucionar el problema de raíz.
+6|2|vert|3|BRAINSTORMING|Es importante realizarlo con todos los involucrados para obtener todas las visiones en juego y llegar a un criterio común.
+8|14|vert|4|CAUSA|En el árbol de problemas, qué tipo de problema es la falta de personal.
+12|16|horiz|5|VIABLE|El maximo _____ es el producto que quieres construir.
+3|10|horiz|6|UBER|Comenzó ante el problema al conseguir taxis de sus fundadores Travis y Garrett.
+6|8|horiz|7|TECNOLOGICO|Comprende patentes, infraestructuras, investigación, entre otros aspectos en el análisis PESTEL.
+15|6|vert|8|SOCIAL|Comprende la demografía, estilo de vida y actitudes en el análisis PESTEL.
+12|2|vert|9|PROCESOS|Es uno de los aspectos que que comprende el area ecologico del analisis PESTEL.
+5|12|horiz|10|MINIMO|Nadie quiere usarlo, no resuelve el problema.
+18|10|vert|11|MATRIX|Stakeholder que tribuye criterios de poder a los grupos de interés identificados para priorizar y determinar relaciones y acciones estratégicas.
+1|1|vert|12|MAP|Stakeholder que identifica posibles grupos de interés para ver cómo pueden influir en el proyecto. 
+5|18|horiz|13|LEGAL|Comprende legislacion,  internacional y derecho en el anilisis PESTEL.
+3|5|horiz|14|ISHIKAWA|Este diagrama permite visualizar las causas y los efectos de un problema y sus subproblemas asociados.
+14|8|vert|15|INVOLUCRADOS|El analisis de ______ considera al público, usuario o cliente final y también a los stakeholders.
+13|18|horiz|16|GOBIERNO|Es uno de los aspectos que comprende el área política del análisis PESTEL.
+16|3|vert|17|EFECTO|En el arbol de problemas, qué tipo de problema es el cuello de botella.
+1|14|horiz|18|ECOLOGICO|Comprende consumo,politicas de medio ambiente y procesos de produccion en el analisis PESTEL.
+14|14|horiz|19|CRISIS|Es uno de los aspectos que comprende el area economico del analisis PESTEL.
+10|5|vert|20|ARBOL|El _____ de problemas Identifica las causas y efecto de un problema

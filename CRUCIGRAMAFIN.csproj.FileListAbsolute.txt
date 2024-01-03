@@ -1,0 +1,39 @@
+C:\Users\Priscila\Desktop\CRUCIGRAMAFIN\bin\Debug\CRUCIGRAMAFIN.exe.config
+C:\Users\Priscila\Desktop\CRUCIGRAMAFIN\bin\Debug\CRUCIGRAMAFIN.exe
+C:\Users\Priscila\Desktop\CRUCIGRAMAFIN\bin\Debug\CRUCIGRAMAFIN.pdb
+C:\Users\Priscila\Desktop\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Priscila\Desktop\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.Form1.resources
+C:\Users\Priscila\Desktop\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.Properties.Resources.resources
+C:\Users\Priscila\Desktop\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.csproj.GenerateResource.cache
+C:\Users\Priscila\Desktop\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.exe
+C:\Users\Priscila\Desktop\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.pdb
+C:\Users\Priscila\Desktop\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.def.resources
+C:\Users\Priscila\Desktop\CRUCIGRAMAFIN\bin\Debug\puzzles\cruci_1.pzl
+C:\Users\Priscila\Downloads\REVISAR\CRUCIGRAMAFIN\bin\Debug\puzzles\cruci_1.pzl
+C:\Users\Priscila\Downloads\REVISAR\CRUCIGRAMAFIN\bin\Debug\CRUCIGRAMAFIN.exe.config
+C:\Users\Priscila\Downloads\REVISAR\CRUCIGRAMAFIN\bin\Debug\CRUCIGRAMAFIN.exe
+C:\Users\Priscila\Downloads\REVISAR\CRUCIGRAMAFIN\bin\Debug\CRUCIGRAMAFIN.pdb
+C:\Users\Priscila\Downloads\REVISAR\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.csproj.AssemblyReference.cache
+C:\Users\Priscila\Downloads\REVISAR\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Priscila\Downloads\REVISAR\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.def.resources
+C:\Users\Priscila\Downloads\REVISAR\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.Form1.resources
+C:\Users\Priscila\Downloads\REVISAR\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.Properties.Resources.resources
+C:\Users\Priscila\Downloads\REVISAR\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.csproj.GenerateResource.cache
+C:\Users\Priscila\Downloads\REVISAR\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Downloads\REVISAR\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.exe
+C:\Users\Priscila\Downloads\REVISAR\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.pdb
+C:\Users\Priscila\Documents\TODO DE PROGRAMACION\SAMSUNG AND OTHERS\CRUCIGRAMAFIN\bin\Debug\puzzles\cruci_1.pzl
+C:\Users\Priscila\Documents\TODO DE PROGRAMACION\SAMSUNG AND OTHERS\CRUCIGRAMAFIN\bin\Debug\CRUCIGRAMAFIN.exe.config
+C:\Users\Priscila\Documents\TODO DE PROGRAMACION\SAMSUNG AND OTHERS\CRUCIGRAMAFIN\bin\Debug\CRUCIGRAMAFIN.exe
+C:\Users\Priscila\Documents\TODO DE PROGRAMACION\SAMSUNG AND OTHERS\CRUCIGRAMAFIN\bin\Debug\CRUCIGRAMAFIN.pdb
+C:\Users\Priscila\Documents\TODO DE PROGRAMACION\SAMSUNG AND OTHERS\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.csproj.AssemblyReference.cache
+C:\Users\Priscila\Documents\TODO DE PROGRAMACION\SAMSUNG AND OTHERS\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Priscila\Documents\TODO DE PROGRAMACION\SAMSUNG AND OTHERS\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.def.resources
+C:\Users\Priscila\Documents\TODO DE PROGRAMACION\SAMSUNG AND OTHERS\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.Form1.resources
+C:\Users\Priscila\Documents\TODO DE PROGRAMACION\SAMSUNG AND OTHERS\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.Properties.Resources.resources
+C:\Users\Priscila\Documents\TODO DE PROGRAMACION\SAMSUNG AND OTHERS\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.csproj.GenerateResource.cache
+C:\Users\Priscila\Documents\TODO DE PROGRAMACION\SAMSUNG AND OTHERS\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Documents\TODO DE PROGRAMACION\SAMSUNG AND OTHERS\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.exe
+C:\Users\Priscila\Documents\TODO DE PROGRAMACION\SAMSUNG AND OTHERS\CRUCIGRAMAFIN\obj\Debug\CRUCIGRAMAFIN.pdb

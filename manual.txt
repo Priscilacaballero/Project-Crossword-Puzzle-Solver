@@ -1,0 +1,15 @@
+Bienvenido al manual de crucigrama
+
+1. El programa solo lee archivo de extension .pzl 
+
+2. Para abrir el archivo debe dar click en la casilla llamada archivo y luego dar click en la casilla abrir crucigrama 
+
+3. La columna de direccion indica hacia donde esta orientada la palabra
+
+4. Debe guiarse del numero de la palabra para buscarlo en el cuadro del cucigrama 
+
+5. Se le mostrara la definicion de cada palabra 
+
+6. Si la letra que ha colocado se torna verde es porque es la letra que le corresponde a esa casilla
+
+7. Si la letra que ha colocado se torna rojo es porque no es la letra que le corresponde a esa casilla

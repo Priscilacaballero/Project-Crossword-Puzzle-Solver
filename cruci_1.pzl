@@ -1,0 +1,21 @@
+x|y|direction|number|word|clue
+1|6|horiz|1|actividades|Son las tareas que deben ejecutarse para llegar en conjunto a un fin preestablecido
+2|2|vert|2|aplicacion|Son categorías de proyectos que tienen elementos significativos comunes pero que no son necesarios en todos los proyectos: areas de _______
+8|5|vert|3|calidad|Los proyectos debe cumplir con estas normas para ser exitoso
+7|1|horiz|4|comunicaciones|Es uno de los diferentes tipos de proyectos informáticos junto a las redes
+6|5|vert|5|directos|Costos que pueden ser identificados en el proyecto y están asociados a este, pueden ser fijos o variables
+3|18|horiz|6|elecciones|Es un indicativo de la falta de habilidades de gestión de proyectos y administración del riesgo: Malas _____
+15|6|vert|7|estructurado|La base que requiere una inversión para ser justificada es un proyecto bien evaluado y _________
+18|3|vert|8|expectativas|Al adaptar un enfoque estándar para la gestión de proyectos informáticos se obtiene la ventaja de establecer reglas y _______ en el equipo
+5|2|horiz|9|identificacion|La gestion de riesgo de un proyecto se encarga de la __________ de riesgos
+11|14|horiz|10|indirectos|Costos que en los proyectos están involucrados, pero tienen una importancia relativa
+1|20|horiz|11|informacion|La recopilacion de esto es una actividad que se realiza en los proyectos tecnológicos
+10|9|horiz|12|integracion|Gestión de los proyectos que se encarga de desarrollar el acta de constitución del proyecto
+10|3|vert|13|licencias|Puede ser un costo indirecto en un proyecto tecnológico
+16|17|horiz|14|lider|La inexperiencia de esta persona en el proyecto indica la falta de liderazgo y gestión del proyecto
+11|13|vert|15|pilares|Los constantes cambios de _____ son un indicativo de la falta de vínculo entre el proyecto y las prioridades estratégicas de la institución
+4|16|horiz|16|programar|Es un ejemplo de las actividades que se realizan en los proyectos informaticos
+13|20|horiz|17|recursos|Son los elementos utilizados para poder realizar la ejecución de cada una de las tareas
+4|2|vert|18|servidores|Uno de estos es un ejemplo de los proyectos que se realizan en el contexto tecnológico: cambiar ________ antiguos
+20|1|vert|19|software|Este es uno de los recursos que requiere un proyecto tecnológico
+20|13|vert|20|usuarios|Con el grado de satisfaccion de este grupo de personas se puede saber el nivel de éxito o de fracaso de un proyecto con esta medida
